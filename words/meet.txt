@@ -1,0 +1,2 @@
+POS: VERB
+tense: PRESENT

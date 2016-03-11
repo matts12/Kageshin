@@ -1,0 +1,2 @@
+POS: ADJ
+conno: POS_NEG(-8)/RUDE(2)

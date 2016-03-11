@@ -1,0 +1,3 @@
+POS: NOUN
+related: computer
+not: human
